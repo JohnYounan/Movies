@@ -1,0 +1,33 @@
+
+<div class="limiter">
+  <div class="container-table100">
+    <div class="wrap-table100">
+      <div class="table100 ver1 m-b-110">	
+        	<div class="title"> Movies List </div>			
+        <div class="table100-body js-pscroll">
+          <table>
+            <thead>
+              <tr>
+                <th> Title </th>
+                <th> Rate </th>
+              </tr>
+            </thead>
+            <tbody>
+
+              <tr class="row100 body" *ngFor="let movie of Movies">
+                <td class="cell100 column1">{{movie.name}}</td>
+                <td class="cell100 column2">
+               <jk-rating-stars max-rating="10" rating="secondRate" ></jk-rating-stars>
+
+                </td>
+               
+              </tr>
+
+             
+            </tbody>
+          </table>
+        </div>
+      </div>	
+    </div>
+  </div>
+</div>

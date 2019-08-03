@@ -1,0 +1,50 @@
+[
+    {
+        "name":"The Mule",
+        "rate":1
+    },
+    {
+        "name":"Mission: Impossible – Fallout",
+        "rate":2
+    },
+    {
+        "name":"Bisbee ’17",
+        "rate":3
+    },
+    {
+        "name":"Burning",
+        "rate":4
+    },
+    {
+        "name":"Leave No Trace",
+        "rate":5
+    },
+    {
+        "name":"The Endless",
+        "rate":6
+    },
+    {
+        "name":"Paddington 2",
+        "rate":7
+    },
+    {
+        "name":"Filmworker",
+        "rate":8
+    },
+    {
+        "name":"24 Frames",
+        "rate":9
+    },
+    {
+        "name":"Shoplifters",
+        "rate":10
+    },
+    {
+        "name":"A Private War",
+        "rate":11
+    },
+    {
+        "name":"Thunder Road",
+        "rate":12
+    }
+]
